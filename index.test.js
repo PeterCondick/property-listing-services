@@ -1,4 +1,4 @@
-process.env.MONGODB_URI = 'mongodb://localhost:27017/PropertyAppTest';
+//process.env.MONGODB_URI = 'mongodb://localhost:27017/PropertyAppTest';
 
 // const expect = require('expect');
 const chai = require('chai');
